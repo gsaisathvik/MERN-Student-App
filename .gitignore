@@ -1,0 +1,13 @@
+# Node
+node_modules
+npm-debug.log
+
+# Build
+dist
+build
+
+# Env files
+.env
+
+# Docker
+docker-data
